@@ -1,0 +1,9 @@
+{
+	"name": "Khushwant-joshi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e3508e1-34a2-4332-8d62-3aec63100397",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
